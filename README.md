@@ -1,2 +1,2 @@
 # MIPS-Snake-Project
-Snake game coded in assembly language with MIPS
+This was a collaborative project for an assembly programming class in college. All information regarding the project are included in the comments of the asm file along with the presentation, which is included in the repository.
